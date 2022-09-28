@@ -1,0 +1,2 @@
+# POC
+semantic text Similarity
